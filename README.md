@@ -13,6 +13,12 @@ To check if you have it installed or not write "node -v" on the Terminal window/
   
 6) It will contain 3 folders "node_modules", "public" and "src"
 
-7) 
+7) Delete the folders "public" and "src"
+
+8) Clone the repo "https://github.com/SnehaAgarwal07/ToDoApp.git" into your local machine
+
+9) You have your own to-do-list app running
+
+
 
 
